@@ -1,1 +1,1 @@
-# Gallery design
+# photo gallery 
